@@ -1,0 +1,5 @@
+com\project\summarizer\model\SummaryResponse.class
+com\project\summarizer\service\OpenAiClientService.class
+com\project\summarizer\SummarizerApplication.class
+com\project\summarizer\model\SummaryRequest.class
+com\project\summarizer\controller\SummarizerController.class

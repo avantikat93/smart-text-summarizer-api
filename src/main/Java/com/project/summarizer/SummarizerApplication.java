@@ -1,4 +1,4 @@
-package com.example.summarizer;
+package com.project.summarizer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
